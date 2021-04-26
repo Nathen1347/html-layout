@@ -1,0 +1,63 @@
+body{
+    background-color: grey;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+.Top-Box{
+    background-color: white;
+    width: 100%;
+    height: 40vh;
+    border: 10px solid black;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+.First-Square{
+    background-color: purple;
+    width: 50px;
+    height: 200px;
+    display: inline-block;
+}
+.Second-Square{
+    background-color: green;
+    width: 400px;
+    height: 300px;
+    display: inline-block;
+    margin: 0 100px
+}
+.Circle{
+    background-color: teal;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    border-radius: 50%;
+}
+.Middle-Box{
+    background-color: white;
+    width: 100%;
+    height: 40vh;
+    border: dotted black;
+    box-sizing: border-box;
+    padding: 50px;
+}
+.Shadow-Box{
+    background-color: tan;
+    width: 100%;
+    height: 30vh;
+    box-shadow: 5px 10px 5px black;
+}
+.Bottom-Box{
+    background-color: white;
+    width: 50%;
+    border: 1px solid black;
+    margin: 30px auto;
+    padding: 100px;
+    box-shadow: 5px 10px 5px black;
+}
+.Bottom-Text{
+    color: blue;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 10px;
+}

@@ -1,0 +1,23 @@
+body{
+    background-color:lightgray;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+.Top{
+    background-color: darkgray;
+    width: 100%;
+    height: 20vh;   
+}
+.Sides{
+    background-color: white;
+    width: 75%;
+    height: 70vh;
+    margin: auto;
+}
+.Bottom{
+    background-color: black;
+    margin: auto;
+    width: 75%;
+    height: 15vh;
+}
